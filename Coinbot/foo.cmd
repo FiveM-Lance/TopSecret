@@ -1,0 +1,1 @@
+start mainprocess.ahk
